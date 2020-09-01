@@ -1,0 +1,130 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+body {
+  height: 500vh;
+
+  background-position: center;
+  background-size: cover;
+  box-sizing: boarder-box;
+}
+#one {
+  display: flex;
+  list-style: none;
+  text-align: center;
+  background: rgb(0, 0, 0);
+  background-attachment: fixed;
+  opacity: 75%;
+  position: fixed;
+}
+#one ul {
+  display: inline-flex;
+  list-style: none;
+  color: grey;
+}
+#one ul li {
+  width: 155px;
+  height: 1px;
+  padding-top: 10px;
+}
+#one ul li a {
+  text-decoration: none;
+  color: grey;
+}
+#one ul li a:hover {
+  color: white;
+}
+.two {
+  padding-top: 42px;
+  text-align: center;
+}
+.two p {
+  height: 45px;
+  background: blue;
+}
+.two a {
+  top: 2px;
+  color: white;
+}
+.three {
+  text-align: center;
+}
+.four img {
+  height: 1010px;
+}
+.four {
+  text-align: center;
+}
+.four p {
+  margin-top: -60%;
+  color: white;
+}
+.four h1 {
+  color: white;
+}
+.four h2 {
+  color: white;
+}
+.four h4 {
+  color: yellowgreen;
+}
+.five img {
+  height: 600px;
+}
+.ima {
+  padding-top: 1300px;
+  width: 1500px;
+}
+.six {
+  text-align: center;
+}
+.six p {
+  margin-top: -50%;
+}
+.six h1 {
+  color: red;
+}
+.six h2 {
+  color: yellow;
+}
+.six h4 {
+  color: yellowgreen;
+}
+.seven {
+  text-align: center;
+}
+.seven p {
+  margin-top: -53%;
+}
+
+.aa {
+  padding-top: 1300px;
+  border-image-outset: black;
+}
+.bb {
+  text-align: center;
+}
+.bb p {
+  margin-top: -100%;
+  padding-left: 45px;
+}
+dd {
+  text-align: center;
+}
+.dd p {
+  margin-top: 190%;
+  padding-left: 300px;
+  padding-right: 300px;
+
+  background-color: grey;
+}
+hr.ten {
+  border: none;
+  height: 5px;
+
+  background: #dddddd;
+}
+.hero {
+  text-align: center;
+}
